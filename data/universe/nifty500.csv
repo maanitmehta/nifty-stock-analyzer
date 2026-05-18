@@ -1,0 +1,501 @@
+nse_symbol,company_name,sector,industry,market_cap_tier,in_nifty50,in_nifty500
+GESHIP,The Great Eastern Shipping Company Limited,Shipping,,Large,False,True
+BHARTIARTL,Bharti Airtel Limited,Communication Services,Telecom - Wireless,Large,True,True
+HDFCBANK,HDFC Bank Limited,Financials,Private Sector Banking,Large,True,True
+BSE,BSE Limited,Exchange and Data Platform,,Large,False,True
+RELIANCE,Reliance Industries Limited,Energy,Integrated Oil & Gas / Retail / Telecom,Large,True,True
+ICICIBANK,ICICI Bank Limited,Financials,Private Sector Banking,Large,True,True
+IDEA,Vodafone Idea Limited,Telecom - Cellular & Fixed line services,,Large,False,True
+AMBER,Amber Enterprises India Limited,Household Appliances,,Large,False,True
+SBIN,State Bank of India,Financials,Public Sector Banking,Large,True,True
+TATASTEEL,Tata Steel Limited,Materials,Steel,Large,True,True
+GLAND,Gland Pharma Limited,Pharmaceuticals,,Large,False,True
+INFY,Infosys Limited,Information Technology,IT Services & Consulting,Large,True,True
+SOLARINDS,Solar Industries India Limited,Explosives,,Large,False,True
+MCX,Multi Commodity Exchange of India Limited,Exchange and Data Platform,,Large,False,True
+GODFRYPHLP,Godfrey Phillips India Limited,Cigarettes & Tobacco Products,,Large,False,True
+HINDCOPPER,Hindustan Copper Limited,Copper,,Large,False,True
+GROWW,Billionbrains Garage Ventures Limited,Stockbroking & Allied,,Large,False,True
+HAL,Hindustan Aeronautics Limited,Aerospace & Defense,,Large,False,True
+TECHM,Tech Mahindra Limited,Information Technology,IT Services & Consulting,Large,True,True
+SCI,Shipping Corporation Of India Limited,Shipping,,Large,False,True
+TCS,Tata Consultancy Services Limited,Information Technology,IT Services & Consulting,Large,True,True
+TVSMOTOR,TVS Motor Company Limited,2/3 Wheelers,,Large,False,True
+SAIL,Steel Authority of India Limited,Iron & Steel,,Large,False,True
+KAYNES,Kaynes Technology India Limited,Industrial Products,,Large,False,True
+AXISBANK,Axis Bank Limited,Financials,Private Sector Banking,Large,True,True
+HFCL,HFCL Limited,Telecom - Infrastructure,,Large,False,True
+LT,Larsen & Toubro Limited,Industrials,Engineering & Construction,Large,True,True
+VEDL,Vedanta Limited,Diversified Metals,,Large,False,True
+ADANIPOWER,Adani Power Limited,Integrated Power Utilities,,Large,False,True
+SUNPHARMA,Sun Pharmaceutical Industries Limited,Healthcare,Pharmaceuticals,Large,True,True
+ETERNAL,ETERNAL LIMITED,E-Retail/ E-Commerce,,Large,False,True
+PNB,Punjab National Bank,Public Sector Bank,,Large,False,True
+DIXON,Dixon Technologies (India) Limited,Consumer Electronics,,Large,False,True
+M&M,Mahindra & Mahindra Limited,Consumer Discretionary,Automobiles - SUV & Tractors,Large,True,True
+COFORGE,Coforge Limited,Computers - Software & Consulting,,Large,False,True
+BAJFINANCE,Bajaj Finance Limited,Financials,Non-Banking Finance (NBFC),Large,True,True
+KOTAKBANK,Kotak Mahindra Bank Limited,Financials,Private Sector Banking,Large,True,True
+PREMIERENE,Premier Energies Limited,Other Electrical Equipment,,Large,False,True
+ADANIENT,Adani Enterprises Limited,Energy,Conglomerate / Trading,Large,True,True
+COCHINSHIP,Cochin Shipyard Limited,Ship Building & Allied Services,,Large,False,True
+INDUSTOWER,Indus Towers Limited,Telecom - Infrastructure,,Large,False,True
+ADANIENSOL,Adani Energy Solutions Limited,Power Distribution,,Large,False,True
+ADANIGREEN,Adani Green Energy Limited,Power Generation,,Large,False,True
+HSCL,Himadri Speciality Chemical Limited,Carbon Black,,Large,False,True
+MARUTI,Maruti Suzuki India Limited,Consumer Discretionary,Automobiles - Passenger Cars,Large,True,True
+SHRIRAMFIN,Shriram Finance Limited,Financials,Non-Banking Finance (NBFC),Large,True,True
+POWERGRID,Power Grid Corporation of India Limited,Utilities,Power Transmission,Large,True,True
+ADANIPORTS,Adani Ports and Special Economic Zone Limited,Industrials,Ports & Logistics,Large,True,True
+ITC,ITC Limited,Consumer Staples,Conglomerate - FMCG / Hotels / Paper,Large,True,True
+BEL,Bharat Electronics Limited,Aerospace & Defense,,Large,False,True
+TRENT,Trent Limited,Speciality Retail,,Large,False,True
+TMCV,Tata Motors Limited,Commercial Vehicles,,Large,False,True
+SAREGAMA,Saregama India Limited,Media & Entertainment,,Large,False,True
+HINDALCO,Hindalco Industries Limited,Materials,Aluminium & Copper,Large,True,True
+BHEL,Bharat Heavy Electricals Limited,Heavy Electrical Equipment,,Large,False,True
+SUZLON,Suzlon Energy Limited,Heavy Electrical Equipment,,Large,False,True
+DATAPATTNS,Data Patterns (India) Limited,Aerospace & Defense,,Large,False,True
+GRSE,Garden Reach Shipbuilders & Engineers Limited,Aerospace & Defense,,Large,False,True
+POLICYBZR,PB Fintech Limited,Financial Technology (Fintech),,Large,False,True
+JSWSTEEL,JSW Steel Limited,Materials,Steel,Large,True,True
+TMPV,Tata Motors Passenger Vehicles Limited,Passenger Cars & Utility Vehicles,,Large,False,True
+COALINDIA,Coal India Limited,Energy,Coal Mining,Large,True,True
+JAINREC,Jain Resource Recycling Limited,Diversified Metals,,Large,False,True
+TITAN,Titan Company Limited,Consumer Discretionary,Jewellery & Watches,Large,True,True
+HINDZINC,Hindustan Zinc Limited,Zinc,,Large,False,True
+ICICIPRULI,ICICI Prudential Life Insurance Company Limited,Life Insurance,,Large,False,True
+NAUKRI,Info Edge (India) Limited,Internet & Catalogue Retail,,Large,False,True
+DELHIVERY,Delhivery Limited,Logistics Solution Provider,,Large,False,True
+SWIGGY,Swiggy Limited,E-Retail/ E-Commerce,,Large,False,True
+CGPOWER,CG Power and Industrial Solutions Limited,Heavy Electrical Equipment,,Large,False,True
+ONGC,Oil & Natural Gas Corporation Limited,Energy,Oil & Gas Exploration,Large,True,True
+WIPRO,Wipro Limited,Information Technology,IT Services & Consulting,Large,True,True
+OFSS,Oracle Financial Services Software Limited,Software Products,,Large,False,True
+JSWENERGY,JSW Energy Limited,Power Generation,,Large,False,True
+JIOFIN,Jio Financial Services Limited,Investment Company,,Large,False,True
+BAJAJ-AUTO,Bajaj Auto Limited,Consumer Discretionary,Automobiles - 2W & 3W,Large,True,True
+NTPC,NTPC Limited,Utilities,Power Generation,Large,True,True
+HCLTECH,HCL Technologies Limited,Information Technology,IT Services & Consulting,Large,True,True
+JPPOWER,Jaiprakash Power Ventures Limited,Power Generation,,Large,False,True
+NESTLEIND,Nestle India Limited,Consumer Staples,Packaged Foods,Large,True,True
+UNOMINDA,UNO Minda Limited,Auto Components & Equipments,,Large,False,True
+CIPLA,Cipla Limited,Healthcare,Pharmaceuticals,Large,True,True
+ASHOKLEY,Ashok Leyland Limited,Commercial Vehicles,,Large,False,True
+PERSISTENT,Persistent Systems Limited,Computers - Software & Consulting,,Large,False,True
+CANBK,Canara Bank,Public Sector Bank,,Large,False,True
+POLYCAB,Polycab India Limited,Cables - Electricals,,Large,False,True
+ULTRACEMCO,UltraTech Cement Limited,Materials,Cement,Large,True,True
+GRAPHITE,Graphite India Limited,Electrodes & Refractories,,Large,False,True
+MANAPPURAM,Manappuram Finance Limited,Non Banking Financial Company (NBFC),,Large,False,True
+MUTHOOTFIN,Muthoot Finance Limited,Non Banking Financial Company (NBFC),,Large,False,True
+POWERINDIA,Hitachi Energy India Limited,Heavy Electrical Equipment,,Large,False,True
+KALYANKJIL,Kalyan Jewellers India Limited,Gems Jewellery And Watches,,Large,False,True
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,Healthcare,Hospitals & Healthcare,Large,True,True
+HDFCAMC,HDFC Asset Management Company Limited,Asset Management Company,,Large,False,True
+NETWEB,Netweb Technologies India Limited,IT Enabled Services,,Large,False,True
+DRREDDY,Dr. Reddy's Laboratories Limited,Healthcare,Pharmaceuticals,Large,True,True
+LAURUSLABS,Laurus Labs Limited,Pharmaceuticals,,Large,False,True
+NLCINDIA,NLC India Limited,Power Generation,,Large,False,True
+HINDPETRO,Hindustan Petroleum Corporation Limited,Refineries & Marketing,,Large,False,True
+MAZDOCK,Mazagon Dock Shipbuilders Limited,Ship Building & Allied Services,,Large,False,True
+HINDUNILVR,Hindustan Unilever Limited,Consumer Staples,FMCG - Household & Personal Products,Large,True,True
+HYUNDAI,Hyundai Motor India Limited,Passenger Cars & Utility Vehicles,,Mid,False,True
+MOTHERSON,Samvardhana Motherson International Limited,Auto Components & Equipments,,Mid,False,True
+NATIONALUM,National Aluminium Company Limited,Aluminium,,Mid,False,True
+KEC,KEC International Limited,Civil Construction,,Mid,False,True
+LENSKART,Lenskart Solutions Limited,Speciality Retail,,Mid,False,True
+BPCL,Bharat Petroleum Corporation Limited,Energy,Oil Refining & Marketing,Large,True,True
+TATAPOWER,Tata Power Company Limited,Integrated Power Utilities,,Mid,False,True
+GODREJCP,Godrej Consumer Products Limited,Personal Care,,Mid,False,True
+HDFCLIFE,HDFC Life Insurance Company Limited,Financials,Life Insurance,Large,True,True
+WOCKPHARMA,Wockhardt Limited,Pharmaceuticals,,Mid,False,True
+ATHERENERG,Ather Energy Limited,2/3 Wheelers,,Mid,False,True
+GRASIM,Grasim Industries Limited,Materials,Diversified Industrials,Large,True,True
+ABB,ABB India Limited,Heavy Electrical Equipment,,Mid,False,True
+ASIANPAINT,Asian Paints Limited,Materials,Paints & Coatings,Large,True,True
+VBL,Varun Beverages Limited,Other Beverages,,Mid,False,True
+DIVISLAB,Divi's Laboratories Limited,Healthcare,Pharmaceuticals - API,Large,True,True
+ICICIAMC,ICICI Prudential Asset Management Company Limited,Asset Management Company,,Mid,False,True
+INDIGO,InterGlobe Aviation Limited,Airline,,Mid,False,True
+CDSL,Central Depository Services (India) Limited,Depositories Clearing Houses and Other Intermediaries,,Mid,False,True
+EICHERMOT,Eicher Motors Limited,Consumer Discretionary,Automobiles - Commercial Vehicles,Large,True,True
+HEROMOTOCO,Hero MotoCorp Limited,Consumer Discretionary,Automobiles - 2W,Large,True,True
+YESBANK,Yes Bank Limited,Private Sector Bank,,Mid,False,True
+GAIL,GAIL (India) Limited,Gas Transmission/Marketing,,Mid,False,True
+BAJAJFINSV,Bajaj Finserv Limited,Financials,Diversified Financial Services,Large,True,True
+IOC,Indian Oil Corporation Limited,Refineries & Marketing,,Mid,False,True
+VMM,Vishal Mega Mart Limited,Diversified Retail,,Mid,False,True
+RECLTD,REC Limited,Financial Institution,,Mid,False,True
+WAAREEENER,Waaree Energies Limited,Other Electrical Equipment,,Mid,False,True
+FEDERALBNK,The Federal Bank  Limited,Private Sector Bank,,Mid,False,True
+LUPIN,Lupin Limited,Pharmaceuticals,,Mid,False,True
+BRITANNIA,Britannia Industries Limited,Consumer Staples,Packaged Foods,Large,True,True
+LODHA,Lodha Developers Limited,Residential Commercial Projects,,Mid,False,True
+PFC,Power Finance Corporation Limited,Financial Institution,,Mid,False,True
+DLF,DLF Limited,Residential Commercial Projects,,Mid,False,True
+PAYTM,One 97 Communications Limited,Financial Technology (Fintech),,Mid,False,True
+INDHOTEL,The Indian Hotels Company Limited,Hotels & Resorts,,Mid,False,True
+PINELABS,Pine Labs Limited,Financial Technology (Fintech),,Mid,False,True
+PGEL,PG Electroplast Limited,Consumer Electronics,,Mid,False,True
+KEI,KEI Industries Limited,Cables - Electricals,,Mid,False,True
+BANKBARODA,Bank of Baroda,Public Sector Bank,,Mid,False,True
+VOLTAS,Voltas Limited,Household Appliances,,Mid,False,True
+TATACONSUM,TATA CONSUMER PRODUCTS LIMITED,Consumer Staples,Packaged Foods & Beverages,Large,True,True
+LTM,LTM Limited,Computers - Software & Consulting,,Mid,False,True
+FORCEMOT,FORCE MOTORS LTD,Passenger Cars & Utility Vehicles,,Mid,False,True
+NHPC,NHPC Limited,Power Generation,,Mid,False,True
+ABCAPITAL,Aditya Birla Capital Limited,Investment Company,,Mid,False,True
+OIL,Oil India Limited,Oil Exploration & Production,,Mid,False,True
+BANKINDIA,Bank of India,Public Sector Bank,,Mid,False,True
+COHANCE,Cohance Lifesciences Limited,Pharmaceuticals,,Mid,False,True
+UNIONBANK,Union Bank of India,Public Sector Bank,,Mid,False,True
+MAXHEALTH,Max Healthcare Institute Limited,Hospital,,Mid,False,True
+INDIANB,Indian Bank,Public Sector Bank,,Mid,False,True
+GVT&D,GE Vernova T&D India Limited,Heavy Electrical Equipment,,Mid,False,True
+PHOENIXLTD,The Phoenix Mills Limited,Residential Commercial Projects,,Mid,False,True
+CARBORUNIV,Carborundum Universal Limited,Abrasives & Bearings,,Mid,False,True
+MEESHO,Meesho Limited,E-Retail/ E-Commerce,,Mid,False,True
+RBLBANK,RBL Bank Limited,Private Sector Bank,,Mid,False,True
+ZEEL,Zee Entertainment Enterprises Limited,TV Broadcasting & Software Production,,Mid,False,True
+RVNL,Rail Vikas Nigam Limited,Civil Construction,,Mid,False,True
+CUMMINSIND,Cummins India Limited,Compressors Pumps & Diesel Engines,,Mid,False,True
+BIOCON,Biocon Limited,Pharmaceuticals,,Mid,False,True
+TORNTPHARM,Torrent Pharmaceuticals Limited,Pharmaceuticals,,Mid,False,True
+PATANJALI,Patanjali Foods Limited,Edible Oil,,Mid,False,True
+APARINDS,Apar Industries Limited,Other Electrical Equipment,,Mid,False,True
+AUROPHARMA,Aurobindo Pharma Limited,Pharmaceuticals,,Mid,False,True
+BANDHANBNK,Bandhan Bank Limited,Private Sector Bank,,Mid,False,True
+IDFCFIRSTB,IDFC First Bank Limited,Private Sector Bank,,Mid,False,True
+SBILIFE,SBI Life Insurance Company Limited,Financials,Life Insurance,Large,True,True
+SAMMAANCAP,Sammaan Capital Limited,Housing Finance Company,,Mid,False,True
+KFINTECH,Kfin Technologies Limited,Depositories Clearing Houses and Other Intermediaries,,Mid,False,True
+CROMPTON,Crompton Greaves Consumer Electricals Limited,Household Appliances,,Mid,False,True
+NMDC,NMDC Limited,Industrial Minerals,,Mid,False,True
+GODREJIND,Godrej Industries Limited,Diversified,,Mid,False,True
+ANGELONE,Angel One Limited,Stockbroking & Allied,,Mid,False,True
+GMRAIRPORT,GMR AIRPORTS LIMITED,Airport & Airport services,,Mid,False,True
+ZYDUSLIFE,Zydus Lifesciences Limited,Pharmaceuticals,,Mid,False,True
+IRFC,Indian Railway Finance Corporation Limited,Financial Institution,,Mid,False,True
+INDUSINDBK,IndusInd Bank Limited,Financials,Private Sector Banking,Large,True,True
+MARICO,Marico Limited,Edible Oil,,Mid,False,True
+NYKAA,FSN E-Commerce Ventures Limited,E-Retail/ E-Commerce,,Mid,False,True
+CHOLAFIN,Cholamandalam Investment and Finance Company Limited,Non Banking Financial Company (NBFC),,Mid,False,True
+GMDCLTD,Gujarat Mineral Development Corporation Limited,Industrial Minerals,,Mid,False,True
+MPHASIS,MphasiS Limited,Computers - Software & Consulting,,Mid,False,True
+NAM-INDIA,Nippon Life India Asset Management Limited,Asset Management Company,,Mid,False,True
+INOXWIND,Inox Wind Limited,Heavy Electrical Equipment,,Mid,False,True
+SAILIFE,Sai Life Sciences Limited,Pharmaceuticals,,Mid,False,True
+OLAELEC,Ola Electric Mobility Limited,2/3 Wheelers,,Mid,False,True
+UPL,UPL Limited,Pesticides & Agrochemicals,,Mid,False,True
+TORNTPOWER,Torrent Power Limited,Integrated Power Utilities,,Mid,False,True
+JINDALSTEL,JINDAL STEEL LIMITED,Iron & Steel,,Mid,False,True
+EMMVEE,Emmvee Photovoltaic Power Limited,Other Electrical Equipment,,Mid,False,True
+HAVELLS,Havells India Limited,Consumer Electronics,,Mid,False,True
+BLUESTARCO,Blue Star Limited,Household Appliances,,Mid,False,True
+RPOWER,Reliance Power Limited,Power Generation,,Mid,False,True
+UNITDSPR,United Spirits Limited,Breweries & Distilleries,,Mid,False,True
+GODREJPROP,Godrej Properties Limited,Residential Commercial Projects,,Mid,False,True
+AUBANK,AU Small Finance Bank Limited,Other Bank,,Mid,False,True
+BDL,Bharat Dynamics Limited,Aerospace & Defense,,Mid,False,True
+SIEMENS,Siemens Limited,Heavy Electrical Equipment,,Mid,False,True
+RRKABEL,R R Kabel Limited,Cables - Electricals,,Mid,False,True
+SYRMA,Syrma SGS Technology Limited,Industrial Products,,Mid,False,True
+IPCALAB,IPCA Laboratories Limited,Pharmaceuticals,,Mid,False,True
+ZENTEC,Zen Technologies Limited,Aerospace & Defense,,Mid,False,True
+LLOYDSME,Lloyds Metals And Energy Limited,Industrial Minerals,,Mid,False,True
+ANANTRAJ,Anant Raj Limited,Residential Commercial Projects,,Mid,False,True
+GLENMARK,Glenmark Pharmaceuticals Limited,Pharmaceuticals,,Mid,False,True
+ACUTAAS,Acutaas Chemicals Limited,Pharmaceuticals,,Mid,False,True
+ITCHOTELS,ITC Hotels Limited,Hotels & Resorts,,Mid,False,True
+IREDA,Indian Renewable Energy Development Agency Limited,Financial Institution,,Mid,False,True
+IFCI,IFCI Limited,Financial Institution,,Mid,False,True
+LICHSGFIN,LIC Housing Finance Limited,Housing Finance Company,,Mid,False,True
+TATAELXSI,Tata Elxsi Limited,Computers - Software & Consulting,,Mid,False,True
+PIDILITIND,Pidilite Industries Limited,Specialty Chemicals,,Mid,False,True
+MAHABANK,Bank of Maharashtra,Public Sector Bank,,Mid,False,True
+ATGL,Adani Total Gas Limited,LPG/CNG/PNG/LNG Supplier,,Mid,False,True
+TIINDIA,Tube Investments of India Limited,Auto Components & Equipments,,Mid,False,True
+EXIDEIND,Exide Industries Limited,Auto Components & Equipments,,Mid,False,True
+WELCORP,Welspun Corp Limited,Iron & Steel Products,,Mid,False,True
+PNBHOUSING,PNB Housing Finance Limited,Housing Finance Company,,Mid,False,True
+BHARATFORG,Bharat Forge Limited,Auto Components & Equipments,,Mid,False,True
+THERMAX,Thermax Limited,Heavy Electrical Equipment,,Mid,False,True
+HEG,HEG Limited,Electrodes & Refractories,,Mid,False,True
+HBLENGINE,HBL Engineering Limited,Other Industrial Products,,Mid,False,True
+CHAMBLFERT,Chambal Fertilizers & Chemicals Limited,Fertilizers,,Mid,False,True
+LTF,L&T Finance Limited,Investment Company,,Mid,False,True
+SJVN,SJVN Limited,Power Generation,,Mid,False,True
+FORTIS,Fortis Healthcare Limited,Hospital,,Mid,False,True
+AMBUJACEM,Ambuja Cements Limited,Cement & Cement Products,,Mid,False,True
+ENGINERSIN,Engineers India Limited,Civil Construction,,Mid,False,True
+APOLLOTYRE,Apollo Tyres Limited,Tyres & Rubber Products,,Mid,False,True
+NUVAMA,Nuvama Wealth Management Limited,Stockbroking & Allied,,Mid,False,True
+NBCC,NBCC (India) Limited,Civil Construction,,Mid,False,True
+COROMANDEL,Coromandel International Limited,Fertilizers,,Mid,False,True
+PIIND,PI Industries Limited,Pesticides & Agrochemicals,,Mid,False,True
+KPITTECH,KPIT Technologies Limited,Computers - Software & Consulting,,Mid,False,True
+IIFL,IIFL Finance Limited,Non Banking Financial Company (NBFC),,Mid,False,True
+VIJAYA,Vijaya Diagnostic Centre Limited,Healthcare Service Provider,,Mid,False,True
+BOSCHLTD,Bosch Limited,Auto Components & Equipments,,Mid,False,True
+HUDCO,Housing & Urban Development Corporation Limited,Financial Institution,,Mid,False,True
+LGEINDIA,LG Electronics India Limited,Household Appliances,,Mid,False,True
+MFSL,Max Financial Services Limited,Life Insurance,,Mid,False,True
+LALPATHLAB,Dr. Lal Path Labs Ltd.,Healthcare Service Provider,,Mid,False,True
+MANKIND,Mankind Pharma Limited,Pharmaceuticals,,Mid,False,True
+PETRONET,Petronet LNG Limited,LPG/CNG/PNG/LNG Supplier,,Mid,False,True
+COLPAL,Colgate Palmolive (India) Limited,Personal Care,,Mid,False,True
+TRITURBINE,Triveni Turbine Limited,Heavy Electrical Equipment,,Mid,False,True
+JYOTICNC,Jyoti CNC Automation Limited,Industrial Products,,Mid,False,True
+TEJASNET,Tejas Networks Limited,Telecom - Equipment & Accessories,,Mid,False,True
+SONACOMS,Sona BLW Precision Forgings Limited,Auto Components & Equipments,,Mid,False,True
+LICI,Life Insurance Corporation Of India,Life Insurance,,Mid,False,True
+CPPLUS,Aditya Infotech Limited,Industrial Products,,Mid,False,True
+ONESOURCE,Onesource Specialty Pharma Limited,Pharmaceuticals,,Mid,False,True
+DMART,Avenue Supermarts Limited,Diversified Retail,,Mid,False,True
+360ONE,360 ONE WAM LIMITED,Stockbroking & Allied,,Mid,False,True
+NAVINFLUOR,Navin Fluorine International Limited,Specialty Chemicals,,Mid,False,True
+TATATECH,Tata Technologies Limited,IT Enabled Services,,Mid,False,True
+PARADEEP,Paradeep Phosphates Limited,Fertilizers,,Mid,False,True
+PRESTIGE,Prestige Estates Projects Limited,Residential Commercial Projects,,Mid,False,True
+MRF,MRF Limited,Tyres & Rubber Products,,Mid,False,True
+SAGILITY,SAGILITY LIMITED,IT Enabled Services,,Mid,False,True
+REDINGTON,Redington Limited,Trading & Distributors,,Mid,False,True
+ALKEM,Alkem Laboratories Limited,Pharmaceuticals,,Mid,False,True
+NAVA,NAVA LIMITED,Power Generation,,Mid,False,True
+CARTRADE,Cartrade Tech Limited,E-Retail/ E-Commerce,,Mid,False,True
+APLAPOLLO,APL Apollo Tubes Limited,Iron & Steel Products,,Mid,False,True
+KIRLOSENG,Kirloskar Oil Engines Limited,Compressors Pumps & Diesel Engines,,Mid,False,True
+AARTIIND,Aarti Industries Limited,Specialty Chemicals,,Mid,False,True
+ASTRAL,Astral Limited,Plastic Products - Industrial,,Mid,False,True
+CAMS,Computer Age Management Services Limited,Depositories Clearing Houses and Other Intermediaries,,Mid,False,True
+CHENNPETRO,Chennai Petroleum Corporation Limited,Refineries & Marketing,,Mid,False,True
+GPIL,Godawari Power And Ispat limited,Iron & Steel Products,,Mid,False,True
+NEULANDLAB,Neuland Laboratories Limited,Pharmaceuticals,,Mid,False,True
+CESC,CESC Limited,Integrated Power Utilities,,Mid,False,True
+ENRIN,Siemens Energy India Limited,Heavy Electrical Equipment,,Mid,False,True
+TITAGARH,TITAGARH RAIL SYSTEMS LIMITED,Railway Wagons,,Mid,False,True
+TARIL,Transformers And Rectifiers (India) Limited,Heavy Electrical Equipment,,Mid,False,True
+SRF,SRF Limited,Specialty Chemicals,,Mid,False,True
+SYNGENE,Syngene International Limited,Healthcare Research Analytics & Technology,,Mid,False,True
+JSWINFRA,JSW Infrastructure Limited,Port & Port services,,Mid,False,True
+DEEPAKNTR,Deepak Nitrite Limited,Specialty Chemicals,,Mid,False,True
+OLECTRA,Olectra Greentech Limited,Passenger Cars & Utility Vehicles,,Mid,False,True
+BELRISE,Belrise Industries Limited,Auto Components & Equipments,,Mid,False,True
+ICICIGI,ICICI Lombard General Insurance Company Limited,General Insurance,,Mid,False,True
+CONCOR,Container Corporation of India Limited,Logistics Solution Provider,,Mid,False,True
+KARURVYSYA,Karur Vysya Bank Limited,Private Sector Bank,,Mid,False,True
+DABUR,Dabur India Limited,Personal Care,,Mid,False,True
+RADICO,Radico Khaitan Limited,Breweries & Distilleries,,Mid,False,True
+DALBHARAT,Dalmia Bharat Limited,Cement & Cement Products,,Mid,False,True
+SBICARD,SBI Cards and Payment Services Limited,Non Banking Financial Company (NBFC),,Mid,False,True
+BHARTIHEXA,Bharti Hexacom Limited,Telecom - Cellular & Fixed line services,,Mid,False,True
+IDBI,IDBI Bank Limited,Private Sector Bank,,Mid,False,True
+GALLANTT,Gallantt Ispat Limited,Iron & Steel Products,,Mid,False,True
+PWL,Physicswallah Limited,E-Learning,,Mid,False,True
+JBCHEPHARM,JB Chemicals & Pharmaceuticals Limited,Pharmaceuticals,,Mid,False,True
+NH,Narayana Hrudayalaya Ltd.,Hospital,,Mid,False,True
+AFCONS,Afcons Infrastructure Limited,Civil Construction,,Mid,False,True
+PAGEIND,Page Industries Limited,Garments & Apparels,,Mid,False,True
+JKTYRE,JK Tyre & Industries Limited,Tyres & Rubber Products,,Mid,False,True
+NATCOPHARM,Natco Pharma Limited,Pharmaceuticals,,Mid,False,True
+NCC,NCC Limited,Civil Construction,,Small,False,True
+FINCABLES,Finolex Cables Limited,Cables - Electricals,,Small,False,True
+ASTERDM,Aster DM Healthcare Limited,Hospital,,Small,False,True
+CEATLTD,CEAT Limited,Tyres & Rubber Products,,Small,False,True
+SARDAEN,Sarda Energy & Minerals Limited,Iron & Steel,,Small,False,True
+NTPCGREEN,NTPC Green Energy Limited,Power Generation,,Small,False,True
+AEGISLOG,Aegis Logistics Limited,Trading - Gas,,Small,False,True
+TATACAP,Tata Capital Limited,Non Banking Financial Company (NBFC),,Small,False,True
+SHYAMMETL,Shyam Metalics and Energy Limited,Iron & Steel Products,,Small,False,True
+ACC,ACC Limited,Cement & Cement Products,,Small,False,True
+AFFLE,Affle 3i Limited,IT Enabled Services,,Small,False,True
+AJANTPHARM,Ajanta Pharma Limited,Pharmaceuticals,,Small,False,True
+ABSLAMC,Aditya Birla Sun Life AMC Limited,Asset Management Company,,Small,False,True
+JUBLFOOD,Jubilant Foodworks Limited,Restaurants,,Small,False,True
+IEX,Indian Energy Exchange Limited,Exchange and Data Platform,,Small,False,True
+FSL,Firstsource Solutions Limited,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),,Small,False,True
+OBEROIRLTY,Oberoi Realty Limited,Residential Commercial Projects,,Small,False,True
+SAPPHIRE,Sapphire Foods India Limited,Restaurants,,Small,False,True
+MOTILALOFS,Motilal Oswal Financial Services Limited,Stockbroking & Allied,,Small,False,True
+ANANDRATHI,Anand Rathi Wealth Limited,Financial Products Distributor,,Small,False,True
+URBANCO,Urban Company Limited,E-Retail/ E-Commerce,,Small,False,True
+ZYDUSWELL,Zydus Wellness Limited,Packaged Foods,,Small,False,True
+MRPL,Mangalore Refinery and Petrochemicals Limited,Refineries & Marketing,,Small,False,True
+CEMPRO,Cemindia Projects Limited,Civil Construction,,Small,False,True
+FLUOROCHEM,Gujarat Fluorochemicals Limited,Specialty Chemicals,,Small,False,True
+BALKRISIND,Balkrishna Industries Limited,Tyres & Rubber Products,,Small,False,True
+ATUL,Atul Limited,Specialty Chemicals,,Small,False,True
+PPLPHARMA,Piramal Pharma Limited,Pharmaceuticals,,Small,False,True
+TATACHEM,Tata Chemicals Limited,Commodity Chemicals,,Small,False,True
+WELSPUNLIV,Welspun Living Limited,Other Textile Products,,Small,False,True
+IRCTC,Indian Railway Catering And Tourism Corporation Limited,Tour Travel Related Services,,Small,False,True
+JBMA,JBM Auto Limited,Auto Components & Equipments,,Small,False,True
+KIMS,Krishna Institute of Medical Sciences Limited,Hospital,,Small,False,True
+BEML,BEML Limited,Construction Vehicles,,Small,False,True
+PIRAMALFIN,Piramal Finance Limited,Non Banking Financial Company (NBFC),,Small,False,True
+M&MFIN,Mahindra & Mahindra Financial Services Limited,Non Banking Financial Company (NBFC),,Small,False,True
+HDBFS,HDB Financial Services Limited,Non Banking Financial Company (NBFC),,Small,False,True
+CAPLIPOINT,Caplin Point Laboratories Limited,Pharmaceuticals,,Small,False,True
+IKS,Inventurus Knowledge Solutions Limited,IT Enabled Services,,Small,False,True
+SUPREMEIND,Supreme Industries Limited,Plastic Products - Industrial,,Small,False,True
+TATAINVEST,Tata Investment Corporation Limited,Investment Company,,Small,False,True
+ESCORTS,Escorts Kubota Limited,Tractors,,Small,False,True
+ARE&M,Amara Raja Energy & Mobility Limited,Auto Components & Equipments,,Small,False,True
+ABBOTINDIA,Abbott India Limited,Pharmaceuticals,,Small,False,True
+SHREECEM,SHREE CEMENT LIMITED,Cement & Cement Products,,Small,False,True
+LATENTVIEW,Latent View Analytics Limited,Computers - Software & Consulting,,Small,False,True
+ENDURANCE,Endurance Technologies Limited,Auto Components & Equipments,,Small,False,True
+GRAVITA,Gravita India Limited,Industrial Minerals,,Small,False,True
+JWL,Jupiter Wagons Limited,Railway Wagons,,Small,False,True
+BSOFT,BIRLASOFT LIMITED,Computers - Software & Consulting,,Small,False,True
+BAJAJHFL,Bajaj Housing Finance Limited,Housing Finance Company,,Small,False,True
+JINDALSAW,Jindal Saw Limited,Iron & Steel Products,,Small,False,True
+INTELLECT,Intellect Design Arena Limited,Computers - Software & Consulting,,Small,False,True
+POONAWALLA,Poonawalla Fincorp Limited,Non Banking Financial Company (NBFC),,Small,False,True
+ABREL,Aditya Birla Real Estate Limited,Residential Commercial Projects,,Small,False,True
+CRAFTSMAN,Craftsman Automation Limited,Auto Components & Equipments,,Small,False,True
+GRANULES,Granules India Limited,Pharmaceuticals,,Small,False,True
+IGL,Indraprastha Gas Limited,LPG/CNG/PNG/LNG Supplier,,Small,False,True
+MAPMYINDIA,C.E. Info Systems Limited,Software Products,,Small,False,True
+BAJAJHLDNG,Bajaj Holdings & Investment Limited,Holding Company,,Small,False,True
+MEDANTA,Global Health Limited,Hospital,,Small,False,True
+CIEINDIA,CIE Automotive India Limited,Auto Components & Equipments,,Small,False,True
+DEEPAKFERT,Deepak Fertilizers and Petrochemicals Corporation Limited,Commodity Chemicals,,Small,False,True
+IRCON,Ircon International Limited,Civil Construction,,Small,False,True
+BLS,BLS International Services Limited,Tour Travel Related Services,,Small,False,True
+J&KBANK,The Jammu & Kashmir Bank Limited,Private Sector Bank,,Small,False,True
+UBL,United Breweries Limited,Breweries & Distilleries,,Small,False,True
+BALRAMCHIN,Balrampur Chini Mills Limited,Sugar,,Small,False,True
+ECLERX,eClerx Services Limited,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),,Small,False,True
+RAILTEL,Railtel Corporation Of India Limited,Other Telecom Services,,Small,False,True
+ANURAS,Anupam Rasayan India Limited,Specialty Chemicals,,Small,False,True
+CGCL,Capri Global Capital Limited,Non Banking Financial Company (NBFC),,Small,False,True
+SCHAEFFLER,Schaeffler India Limited,Auto Components & Equipments,,Small,False,True
+LTTS,L&T Technology Services Limited,IT Enabled Services,,Small,False,True
+KPRMILL,K.P.R. Mill Limited,Other Textile Products,,Small,False,True
+SWANCORP,SWAN CORP LIMITED,Petrochemicals,,Small,False,True
+CUB,City Union Bank Limited,Private Sector Bank,,Small,False,True
+KAJARIACER,Kajaria Ceramics Limited,Ceramics,,Small,False,True
+BERGEPAINT,Berger Paints (I) Limited,Paints,,Small,False,True
+AWL,AWL Agri Business Limited,Edible Oil,,Small,False,True
+PTCIL,PTC Industries Limited,Other Industrial Products,,Small,False,True
+CHOICEIN,Choice International Limited,Holding Company,,Small,False,True
+RAINBOW,Rainbow Childrens Medicare Limited,Hospital,,Small,False,True
+LEMONTREE,Lemon Tree Hotels Limited,Hotels & Resorts,,Small,False,True
+ELGIEQUIP,Elgi Equipments Limited,Compressors Pumps & Diesel Engines,,Small,False,True
+JSL,Jindal Stainless Limited,Iron & Steel,,Small,False,True
+NEWGEN,Newgen Software Technologies Limited,Computers - Software & Consulting,,Small,False,True
+ZENSARTECH,Zensar Technologies Limited,Computers - Software & Consulting,,Small,False,True
+JMFINANCIL,JM Financial Limited,Holding Company,,Small,False,True
+FIVESTAR,Five-Star Business Finance Limited,Non Banking Financial Company (NBFC),,Small,False,True
+DEVYANI,Devyani International Limited,Restaurants,,Small,False,True
+TATACOMM,Tata Communications Limited,Telecom - Cellular & Fixed line services,,Small,False,True
+CREDITACC,CREDITACCESS GRAMEEN LIMITED,Microfinance Institutions,,Small,False,True
+APTUS,Aptus Value Housing Finance India Limited,Housing Finance Company,,Small,False,True
+CLEAN,Clean Science and Technology Limited,Specialty Chemicals,,Small,False,True
+NSLNISP,NMDC Steel Limited,Iron & Steel,,Small,False,True
+PFIZER,Pfizer Limited,Pharmaceuticals,,Small,False,True
+SONATSOFTW,Sonata Software Limited,Computers - Software & Consulting,,Small,False,True
+LINDEINDIA,Linde India Limited,Industrial Gases,,Small,False,True
+MSUMI,Motherson Sumi Wiring India Limited,Auto Components & Equipments,,Small,False,True
+HONASA,Honasa Consumer Limited,Personal Care,,Small,False,True
+USHAMART,Usha Martin Limited,Iron & Steel Products,,Small,False,True
+SUNDARMFIN,Sundaram Finance Limited,Non Banking Financial Company (NBFC),,Small,False,True
+ACE,Action Construction Equipment Limited,Construction Vehicles,,Small,False,True
+GICRE,General Insurance Corporation of India,General Insurance,,Small,False,True
+IRB,IRB Infrastructure Developers Limited,Civil Construction,,Small,False,True
+ELECON,Elecon Engineering Company Limited,Heavy Electrical Equipment,,Small,False,True
+TECHNOE,Techno Electric & Engineering Company Limited,Civil Construction,,Small,False,True
+DOMS,DOMS Industries Limited,Stationary,,Small,False,True
+INDIAMART,Indiamart Intermesh Limited,Internet & Catalogue Retail,,Small,False,True
+CASTROLIND,Castrol India Limited,Lubricants,,Small,False,True
+ABFRL,Aditya Birla Fashion and Retail Limited,Speciality Retail,,Small,False,True
+ZFCVINDIA,ZF Commercial Vehicle Control Systems India Limited,Auto Components & Equipments,,Small,False,True
+FIRSTCRY,Brainbees Solutions Limited,E-Retail/ E-Commerce,,Small,False,True
+JKCEMENT,JK Cement Limited,Cement & Cement Products,,Small,False,True
+BRIGADE,Brigade Enterprises Limited,Residential Commercial Projects,,Small,False,True
+STARHEALTH,Star Health and Allied Insurance Company Limited,General Insurance,,Small,False,True
+GLAXO,GlaxoSmithKline Pharmaceuticals Limited,Pharmaceuticals,,Small,False,True
+ANTHEM,Anthem Biosciences Limited,Biotechnology,,Small,False,True
+PCBL,PCBL Chemical Limited,Carbon Black,,Small,False,True
+SIGNATURE,Signatureglobal (India) Limited,Residential Commercial Projects,,Small,False,True
+GABRIEL,Gabriel India Limited,Auto Components & Equipments,,Small,False,True
+RKFORGE,Ramkrishna Forgings Limited,Auto Components & Equipments,,Small,False,True
+ACMESOLAR,Acme Solar Holdings Limited,Power Generation,,Small,False,True
+EMCURE,Emcure Pharmaceuticals Limited,Pharmaceuticals,,Small,False,True
+EIDPARRY,EID Parry India Limited,Other Food Products,,Small,False,True
+CYIENT,Cyient Limited,IT Enabled Services,,Small,False,True
+CANFINHOME,Can Fin Homes Limited,Housing Finance Company,,Small,False,True
+CENTRALBK,Central Bank of India,Public Sector Bank,,Small,False,True
+SUNTV,Sun TV Network Limited,TV Broadcasting & Software Production,,Small,False,True
+ABDL,Allied Blenders and Distillers Limited,Breweries & Distilleries,,Small,False,True
+WHIRLPOOL,Whirlpool of India Limited,Household Appliances,,Small,False,True
+CHOLAHLDNG,Cholamandalam Financial Holdings Limited,Investment Company,,Small,False,True
+HEXT,Hexaware Technologies Limited,Computers - Software & Consulting,,Small,False,True
+SCHNEIDER,Schneider Electric Infrastructure Limited,Heavy Electrical Equipment,,Small,False,True
+PVRINOX,PVR INOX Limited,Film Production Distribution & Exhibition,,Small,False,True
+CRISIL,CRISIL Limited,Other Financial Services,,Small,False,True
+NIACL,The New India Assurance Company Limited,General Insurance,,Small,False,True
+POLYMED,Poly Medicure Limited,Medical Equipment & Supplies,,Small,False,True
+CONCORDBIO,Concord Biotech Limited,Pharmaceuticals,,Small,False,True
+IGIL,International Gemological Institute Limited,Diversified Commercial Services,,Small,False,True
+KPIL,Kalpataru Projects International Limited,Civil Construction,,Small,False,True
+TRAVELFOOD,Travel Food Services Limited,Restaurants,,Small,False,True
+JUBLPHARMA,Jubilant Pharmova Limited,Pharmaceuticals,,Small,False,True
+SOBHA,Sobha Limited,Residential Commercial Projects,,Small,False,True
+TENNIND,Tenneco Clean Air India Limited,Auto Components & Equipments,,Small,False,True
+3MINDIA,3M India Limited,Diversified,,Small,False,True
+JSWCEMENT,JSW Cement Limited,Cement & Cement Products,,Small,False,True
+LTFOODS,LT Foods Limited,Other Agricultural Products,,Small,False,True
+BLUEJET,Blue Jet Healthcare Limited,Pharmaceuticals,,Small,False,True
+RITES,RITES Limited,Civil Construction,,Small,False,True
+TRIDENT,Trident Limited,Other Textile Products,,Small,False,True
+UCOBANK,UCO Bank,Public Sector Bank,,Small,False,True
+RAMCOCEM,The Ramco Cements Limited,Cement & Cement Products,,Small,False,True
+AIIL,Authum Investment & Infrastructure Limited,Non Banking Financial Company (NBFC),,Small,False,True
+AADHARHFC,Aadhar Housing Finance Limited,Housing Finance Company,,Small,False,True
+EMAMILTD,Emami Limited,Personal Care,,Small,False,True
+GILLETTE,Gillette India Limited,Personal Care,,Small,False,True
+BATAINDIA,Bata India Limited,Footwear,,Small,False,True
+INDGN,Indegene Limited,Healthcare Research Analytics & Technology,,Small,False,True
+VTL,Vardhman Textiles Limited,Other Textile Products,,Small,False,True
+MINDACORP,Minda Corporation Limited,Auto Components & Equipments,,Small,False,True
+AIAENG,AIA Engineering Limited,Castings & Forgings,,Small,False,True
+MGL,Mahanagar Gas Limited,LPG/CNG/PNG/LNG Supplier,,Small,False,True
+CCL,CCL Products (India) Limited,Tea & Coffee,,Small,False,True
+IOB,Indian Overseas Bank,Public Sector Bank,,Small,False,True
+FACT,Fertilizers and Chemicals Travancore Limited,Fertilizers,,Small,False,True
+SUMICHEM,Sumitomo Chemical India Limited,Pesticides & Agrochemicals,,Small,False,True
+BAYERCROP,Bayer Cropscience Limited,Pesticides & Agrochemicals,,Small,False,True
+TBOTEK,TBO Tek Limited,Tour Travel Related Services,,Small,False,True
+TIMKEN,Timken India Limited,Abrasives & Bearings,,Small,False,True
+ITI,ITI Limited,Telecom - Equipment & Accessories,,Small,False,True
+HONAUT,Honeywell Automation India Limited,Industrial Products,,Small,False,True
+SBFC,SBFC Finance Limited,Non Banking Financial Company (NBFC),,Small,False,True
+MMTC,MMTC Limited,Trading & Distributors,,Small,False,True
+BIKAJI,Bikaji Foods International Limited,Packaged Foods,,Small,False,True
+UTIAMC,UTI Asset Management Company Limited,Asset Management Company,,Small,False,True
+CHALET,Chalet Hotels Limited,Hotels & Resorts,,Small,False,True
+TTML,Tata Teleservices (Maharashtra) Limited,Telecom - Cellular & Fixed line services,,Small,False,True
+HOMEFIRST,Home First Finance Company India Limited,Housing Finance Company,,Small,False,True
+THELEELA,Leela Palaces Hotels & Resorts Limited,Hotels & Resorts,,Small,False,True
+ABLBL,Aditya Birla Lifestyle Brands Limited,Speciality Retail,,Small,False,True
+BLUEDART,Blue Dart Express Limited,Logistics Solution Provider,,Small,False,True
+INDIACEM,The India Cements Limited,Cement & Cement Products,,Small,False,True
+NIVABUPA,Niva Bupa Health Insurance Company Limited,General Insurance,,Small,False,True
+EIHOTEL,EIH Limited,Hotels & Resorts,,Small,False,True
+TEGA,Tega Industries Limited,Industrial Products,,Small,False,True
+ASAHIINDIA,Asahi India Glass Limited,Auto Components & Equipments,,Small,False,True
+NUVOCO,Nuvoco Vistas Corporation Limited,Cement & Cement Products,,Small,False,True
+AEGISVOPAK,Aegis Vopak Terminals Limited,Oil Storage & Transportation,,Small,False,True
+JUBLINGREA,Jubilant Ingrevia Limited,Specialty Chemicals,,Small,False,True
+AAVAS,Aavas Financiers Limited,Housing Finance Company,,Small,False,True
+ERIS,Eris Lifesciences Limited,Pharmaceuticals,,Small,False,True
+DCMSHRIRAM,DCM Shriram Limited,Diversified,,Small,False,True
+CANHLIFE,Canara HSBC Life Insurance Company Limited,Life Insurance,,Small,False,True
+BBTC,The Bombay Burmah Trading Corporation Limited,Packaged Foods,,Small,False,True
+RHIM,RHI MAGNESITA INDIA LIMITED,Electrodes & Refractories,,Small,False,True
+GODIGIT,Go Digit General Insurance Limited,General Insurance,,Small,False,True
+JSWDULUX,JSW Dulux Limited,Paints,,Small,False,True
+SPLPETRO,Supreme Petrochem Limited,Petrochemicals,,Small,False,True

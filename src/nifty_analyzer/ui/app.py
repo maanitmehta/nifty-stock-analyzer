@@ -100,16 +100,20 @@ with st.sidebar:
     st.title("📈 NSE Analyzer")
     st.markdown("---")
 
-    # Universe selector with graceful fallback
-    universe_options = ["Nifty 50"]
-    nse_all_path = Path(__file__).parent.parent.parent.parent.parent / "data" / "universe" / "nse_all.csv"
-    if nse_all_path.exists():
-        universe_options.append("All NSE Stocks")
-    universe_label = st.selectbox("Universe", universe_options)
-    universe_filter = "nifty50" if universe_label == "Nifty 50" else "nse_all"
+    # Universe selector — Nifty 50 and Nifty 500 bundled; All NSE needs download
+    _pkg_data = Path(__file__).parent / "data_files"
+    _nse_all_path = _pkg_data.parent.parent.parent.parent.parent / "data" / "universe" / "nse_all.csv"
 
-    if not nse_all_path.exists():
-        st.info("💡 Run `python scripts/download_universe.py` to unlock all ~1800 NSE stocks.")
+    universe_options = ["Nifty 50", "Nifty 500"]
+    if _nse_all_path.exists():
+        universe_options.append("All NSE Stocks (~1800)")
+
+    universe_label = st.selectbox("Universe", universe_options)
+    universe_filter = {"Nifty 50": "nifty50", "Nifty 500": "nifty500", "All NSE Stocks (~1800)": "nse_all"}[universe_label]
+
+    if "All NSE" not in universe_label:
+        st.caption(f"{'500' if '500' in universe_label else '50'} stocks · "
+                   "Run `make universe` to unlock all ~1800 NSE stocks.")
 
     # Load universe
     try:
