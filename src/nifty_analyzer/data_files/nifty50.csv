@@ -1,0 +1,51 @@
+nse_symbol,company_name,sector,industry,market_cap_tier,in_nifty50,in_nifty500
+ADANIENT,Adani Enterprises,Energy,Conglomerate / Trading,Large,True,True
+ADANIPORTS,Adani Ports & SEZ,Industrials,Ports & Logistics,Large,True,True
+APOLLOHOSP,Apollo Hospitals,Healthcare,Hospitals & Healthcare,Large,True,True
+ASIANPAINT,Asian Paints,Materials,Paints & Coatings,Large,True,True
+AXISBANK,Axis Bank,Financials,Private Sector Banking,Large,True,True
+BAJAJ-AUTO,Bajaj Auto,Consumer Discretionary,Automobiles - 2W & 3W,Large,True,True
+BAJFINANCE,Bajaj Finance,Financials,Non-Banking Finance (NBFC),Large,True,True
+BAJAJFINSV,Bajaj Finserv,Financials,Diversified Financial Services,Large,True,True
+BPCL,Bharat Petroleum Corporation,Energy,Oil Refining & Marketing,Large,True,True
+BHARTIARTL,Bharti Airtel,Communication Services,Telecom - Wireless,Large,True,True
+BRITANNIA,Britannia Industries,Consumer Staples,Packaged Foods,Large,True,True
+CIPLA,Cipla,Healthcare,Pharmaceuticals,Large,True,True
+COALINDIA,Coal India,Energy,Coal Mining,Large,True,True
+DIVISLAB,Divi's Laboratories,Healthcare,Pharmaceuticals - API,Large,True,True
+DRREDDY,Dr. Reddy's Laboratories,Healthcare,Pharmaceuticals,Large,True,True
+EICHERMOT,Eicher Motors,Consumer Discretionary,Automobiles - Commercial Vehicles,Large,True,True
+GRASIM,Grasim Industries,Materials,Diversified Industrials,Large,True,True
+HCLTECH,HCL Technologies,Information Technology,IT Services & Consulting,Large,True,True
+HDFCBANK,HDFC Bank,Financials,Private Sector Banking,Large,True,True
+HDFCLIFE,HDFC Life Insurance,Financials,Life Insurance,Large,True,True
+HEROMOTOCO,Hero MotoCorp,Consumer Discretionary,Automobiles - 2W,Large,True,True
+HINDALCO,Hindalco Industries,Materials,Aluminium & Copper,Large,True,True
+HINDUNILVR,Hindustan Unilever,Consumer Staples,FMCG - Household & Personal Products,Large,True,True
+ICICIBANK,ICICI Bank,Financials,Private Sector Banking,Large,True,True
+INDUSINDBK,IndusInd Bank,Financials,Private Sector Banking,Large,True,True
+INFY,Infosys,Information Technology,IT Services & Consulting,Large,True,True
+ITC,ITC,Consumer Staples,Conglomerate - FMCG / Hotels / Paper,Large,True,True
+JSWSTEEL,JSW Steel,Materials,Steel,Large,True,True
+KOTAKBANK,Kotak Mahindra Bank,Financials,Private Sector Banking,Large,True,True
+LT,Larsen & Toubro,Industrials,Engineering & Construction,Large,True,True
+LTIM,LTIMindtree,Information Technology,IT Services & Consulting,Large,True,True
+M&M,Mahindra & Mahindra,Consumer Discretionary,Automobiles - SUV & Tractors,Large,True,True
+MARUTI,Maruti Suzuki India,Consumer Discretionary,Automobiles - Passenger Cars,Large,True,True
+NESTLEIND,Nestle India,Consumer Staples,Packaged Foods,Large,True,True
+NTPC,NTPC,Utilities,Power Generation,Large,True,True
+ONGC,Oil & Natural Gas Corporation,Energy,Oil & Gas Exploration,Large,True,True
+POWERGRID,Power Grid Corporation,Utilities,Power Transmission,Large,True,True
+RELIANCE,Reliance Industries,Energy,Integrated Oil & Gas / Retail / Telecom,Large,True,True
+SBILIFE,SBI Life Insurance,Financials,Life Insurance,Large,True,True
+SHRIRAMFIN,Shriram Finance,Financials,Non-Banking Finance (NBFC),Large,True,True
+SBIN,State Bank of India,Financials,Public Sector Banking,Large,True,True
+SUNPHARMA,Sun Pharmaceutical Industries,Healthcare,Pharmaceuticals,Large,True,True
+TCS,Tata Consultancy Services,Information Technology,IT Services & Consulting,Large,True,True
+TATACONSUM,Tata Consumer Products,Consumer Staples,Packaged Foods & Beverages,Large,True,True
+TATAMOTORS,Tata Motors,Consumer Discretionary,Automobiles - PV / CV / EV,Large,True,True
+TATASTEEL,Tata Steel,Materials,Steel,Large,True,True
+TECHM,Tech Mahindra,Information Technology,IT Services & Consulting,Large,True,True
+TITAN,Titan Company,Consumer Discretionary,Jewellery & Watches,Large,True,True
+ULTRACEMCO,UltraTech Cement,Materials,Cement,Large,True,True
+WIPRO,Wipro,Information Technology,IT Services & Consulting,Large,True,True

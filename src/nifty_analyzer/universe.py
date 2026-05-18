@@ -93,11 +93,15 @@ def _universe_path(filter: str) -> Path:
 
 
 def _load_curated(filter: str) -> pd.DataFrame:
+    # Prefer the configured universe dir (development / custom installs)
     path = _universe_path(filter)
     if not path.exists():
+        # Fall back to bundled package data (Streamlit Cloud / pip install)
+        path = Path(__file__).parent / "data_files" / f"{filter}.csv"
+    if not path.exists():
         raise FileNotFoundError(
-            f"Universe file not found: {path}\n"
-            f"Place the {filter}.csv file in {settings.universe_dir}."
+            f"Universe file not found for '{filter}'.\n"
+            f"Checked: {_universe_path(filter)} and bundled package data."
         )
     df = pd.read_csv(path, dtype=str).fillna("")
     missing = _CURATED_REQUIRED - set(df.columns)

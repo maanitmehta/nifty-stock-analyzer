@@ -15,8 +15,8 @@ class Settings(BaseSettings):
         extra="ignore",
     )
 
-    # Paths
-    cache_dir: Path = _ROOT / "data" / "cache"
+    # Paths — use home dir so it works both locally and on Streamlit Cloud
+    cache_dir: Path = Path.home() / ".nifty_analyzer" / "cache"
     universe_dir: Path = _ROOT / "data" / "universe"
 
     # Cache behaviour
