@@ -1,0 +1,59 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nifty-analyzer"
+version = "0.1.0"
+description = "Stock analysis tool for the Nifty universe — risk, technicals, valuation, factor model"
+requires-python = ">=3.9"
+dependencies = [
+    "yfinance>=0.2.40",
+    "pandas>=2.2.0",
+    "pyarrow>=15.0.0",
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.6.0",
+    "pydantic-settings>=2.2.0",
+    "requests>=2.31.0",
+    "statsmodels>=0.14.0",
+    "scikit-learn>=1.4.0",
+    "ta>=0.11.0",
+    "streamlit>=1.35.0",
+    "plotly>=5.22.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-cov>=5.0.0",
+    "black>=24.0.0",
+    "ruff>=0.3.0",
+    "mypy>=1.9.0",
+    "pre-commit>=3.7.0",
+    "pandas-stubs>=2.2.0",
+    "types-requests>=2.31.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.black]
+line-length = 100
+target-version = ["py39"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "UP"]
+ignore = ["E501"]
+
+[tool.mypy]
+python_version = "3.9"
+strict = true
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--cov=nifty_analyzer --cov-report=term-missing -v"
